@@ -1,0 +1,92 @@
+.first{
+    background-color: rgb(115, 109, 109);
+    color:white;
+    height: 55px;
+    width: 100%;
+    border-radius: 6px;
+}
+li{
+    list-style:none;
+    display: inline;
+    padding:22px;
+    margin-left: 88px;
+    position: relative;
+    top:12px;
+    font-size: 23px;
+    font-weight: bolder;
+}
+a{
+    text-decoration: none;
+}
+.btn{
+    border: 2px solid black;
+    border-radius: 6px;
+}
+.btn:hover{
+    border: none;
+    background-color: rgb(238, 238, 13);
+    color:maroon;
+    font-size: 17px;
+    cursor: pointer;
+}
+.first li:hover{
+    background-color: rgb(3, 232, 144);
+    color:maroon;
+    cursor: pointer;
+    border-radius: 8px;
+    position:relative;
+    padding:-555px;
+    font-size:25px;
+}
+.first{
+    position: absolute;
+    background-image: url(wallpaperflare.com_wallpaper.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 702px;
+    width:99%;
+}
+
+.inputs{
+    border:3px solid rgb(198, 7, 7);
+    border-radius: 6px;
+    display: block;
+    height: 25px;
+    width: 555px;;
+    position: relative;
+    top:233px;
+    margin-left:525px;
+}
+.butn1{
+    padding:5px;
+    width: 111px;
+    position:relative;
+    top:269px;
+    left: 526px;
+    border-radius: 6px;;
+    border:3px solid rgb(173, 15, 15);
+}
+.butn1:hover{
+    cursor: pointer;
+    background-color: black;
+    color:white;
+    font-size:14px;
+    font-weight: bolder;
+}
+.butn2:hover{
+    cursor: pointer;
+    background-color: black;
+    color:white;
+    font-size:14px;
+    font-weight: bolder;
+}
+.butn2{
+    padding:5px;
+    width: 111px;
+    position:relative;
+    top:269px;
+    left: 864px;
+    border:3px solid rgb(176, 9, 9);
+    border-radius: 6px;
+}
